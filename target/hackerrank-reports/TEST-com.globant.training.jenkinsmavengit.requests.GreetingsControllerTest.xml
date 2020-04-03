@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.globant.training.jenkinsmavengit.requests.GreetingsControllerTest" tests="3" failures="0" errors="0" skipped="0" time="4.726">
+  <testcase classname="com.globant.training.jenkinsmavengit.requests.GreetingsControllerTest" name="greetJava" time="4.71" />
+  <testcase classname="com.globant.training.jenkinsmavengit.requests.GreetingsControllerTest" name="greetSpring" time="0.01" />
+  <testcase classname="com.globant.training.jenkinsmavengit.requests.GreetingsControllerTest" name="greetRodJohnson" time="0.006" />
+</testsuite>
+
